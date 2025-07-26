@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "_.ESP32_symbols")(type "KiCad")(uri "${KIPRJMOD}/ESP32_schematic_symbols/SS-52400-002.kicad_sym")(options "")(descr ""))
+)
